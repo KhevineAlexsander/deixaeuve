@@ -1,0 +1,6 @@
+{
+  "name": "Meu Plantão",
+  "description": "Aplicativo pessoal do plantonista para organização de plantões, horários, ganhos, conflitos e dias livres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
